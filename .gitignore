@@ -1,0 +1,13 @@
+# Ignore Unity temporary files
+[Ll]ibrary/
+[Tt]emp/
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Ignore build results
+build/
+Build/
+Builds/
+
+# Ignore user-specific files
+UserSettings/
