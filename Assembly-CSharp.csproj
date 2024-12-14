@@ -64,12 +64,12 @@
     <Analyzer Include="C:\Users\jeffan\Documents\AR\Unity\Hub\Editor\6000.0.25f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Nextandbac.cs" />
-    <Compile Include="Assets\profile3.cs" />
-    <Compile Include="Assets\profile2.cs" />
-    <Compile Include="Assets\Kembali.cs" />
+    <Compile Include="Assets\code\Kembali.cs" />
+    <Compile Include="Assets\code\profile3.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\main_menu.cs" />
+    <Compile Include="Assets\code\profile2.cs" />
+    <Compile Include="Assets\code\Nextandbac.cs" />
+    <Compile Include="Assets\code\main_menu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
