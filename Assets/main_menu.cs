@@ -1,3 +1,4 @@
+
 using UnityEngine;
 using UnityEngine.SceneManagement; // Library untuk manajemen scene
 
@@ -15,6 +16,11 @@ public class main_menu : MonoBehaviour
     public void LoadTentangScene()
     {
         SceneManager.LoadScene("Tentang");
+    }
+     // Method untuk berpindah ke scene "Tentang"
+    public void LoadProfileScene()
+    {
+        SceneManager.LoadScene("profile");
     }
 
     // Method untuk berpindah ke scene "Keluar" terlebih dahulu
