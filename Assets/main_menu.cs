@@ -17,7 +17,7 @@ public class main_menu : MonoBehaviour
     {
         SceneManager.LoadScene("Tentang");
     }
-     // Method untuk berpindah ke scene "Tentang"
+     // Method untuk berpindah ke scene "profile"
     public void LoadProfileScene()
     {
         SceneManager.LoadScene("profile");
