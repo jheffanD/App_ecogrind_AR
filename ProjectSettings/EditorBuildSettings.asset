@@ -15,6 +15,15 @@ EditorBuildSettings:
     path: Assets/Tentang.unity
     guid: 452bdf8d662584844b12777746f84909
   - enabled: 1
+    path: Assets/profile.unity
+    guid: b514c10a2d17804458276d6c7bf98a8b
+  - enabled: 1
+    path: Assets/Profile2.unity
+    guid: 2e997fc1489ce3241af80eaead23476f
+  - enabled: 1
+    path: Assets/Profile3.unity
+    guid: bfc0d5390d27b0d4aaafb25df0070499
+  - enabled: 1
     path: Assets/Keluar.unity
     guid: 36e6f32bf48b44147b23a987a8f7a503
   m_configObjects:
